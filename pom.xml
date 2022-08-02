@@ -8,6 +8,10 @@
     springboot、springcloud、springcloudalibaba的版本管理器通过depedencyManagement方式引入
     <parent>
     </parent>
+
+    ssssssss
+
+
     -->
 
     <groupId>com.example</groupId>
